@@ -1,0 +1,50 @@
+[Settings]
+ID = "scholar-raise"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "http://scholar-raise.netlify.com/*"
+  to = "http://www.scholarraise.com/:splat"
+  status = 301
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+
+[context.production.environment]
+  REACT_APP_API_URL = "https://api.scholarraise.com"
+  REACT_APP_SITE_URL = "https://www.scholarraise.com"
+  REACT_APP_FACEBOOK_APP_ID = "120295052018408"
+  REACT_APP_STRIPE_PUBLIC_KEY = "pk_live_9KZ8kdtTGFofbYo9bmU8mDOb"
+  REACT_APP_PLAID_ENV = "production"
+  REACT_APP_PLAID_PUBLIC_KEY = "48ff2d3da5c38638bd984757f471bc"
+  REACT_APP_FULLSTORY = "M8T1S"
+  REACT_APP_SR_FEE = "0.05"
+  REACT_APP_ENV = "production"
+
+[context.deploy-preview.environment]
+  REACT_APP_API_URL = "https://staging-api.scholarraise.com"
+  REACT_APP_SITE_URL = "https://staging.scholarraise.com"
+  REACT_APP_FACEBOOK_APP_ID = "120295052018408"
+  REACT_APP_STRIPE_PUBLIC_KEY = "pk_test_qHaOPQIWzbVBIzC5iXlq2OZ3"
+  REACT_APP_PLAID_ENV = "sandbox"
+  REACT_APP_PLAID_PUBLIC_KEY = "48ff2d3da5c38638bd984757f471bc"
+  REACT_APP_FULLSTORY = "M8T1S"
+  REACT_APP_SR_FEE = "0.05"
+
+[context.branch-deploy.environment]
+  REACT_APP_API_URL = "https://staging-api.scholarraise.com"
+  REACT_APP_SITE_URL = "https://staging.scholarraise.com"
+  REACT_APP_FACEBOOK_APP_ID = "120295052018408"
+  REACT_APP_STRIPE_PUBLIC_KEY = "pk_test_qHaOPQIWzbVBIzC5iXlq2OZ3"
+  REACT_APP_PLAID_ENV = "sandbox"
+  REACT_APP_PLAID_PUBLIC_KEY = "48ff2d3da5c38638bd984757f471bc"
+  REACT_APP_FULLSTORY = "M8T1S"
+  REACT_APP_SR_FEE = "0.05"
+

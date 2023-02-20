@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Person</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="100" cy="100" r="100"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Person">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#B8C1CB" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)" fill="#778F9B" id="Oval">
+                <g transform="translate(30.000000, 30.000000)">
+                    <circle cx="70" cy="40" r="40"></circle>
+                    <circle cx="70" cy="140" r="70"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

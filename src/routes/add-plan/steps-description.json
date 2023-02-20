@@ -1,0 +1,17 @@
+{
+  "step1": {"title": "Your information", "description": "Tell us who will be managing the account"},
+  "step2": {"title": "Scholar", "description": "Tell us who the account is going to benefit"},
+  "step3": {
+    "title": "Confirm",
+    "description": "Answer some security questions and confirm details"
+  },
+  "step4": {
+    "title": "Share & invite",
+    "description": "Get friends and family to start contributing"
+  },
+  "step5": {
+    "title": "Add initial funds",
+    "description": "Set up an initial deposit to get the ball rolling"
+  },
+  "step6": {"title": "Set up profile", "description": "Customize the profile page for this scholar"}
+}

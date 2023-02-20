@@ -1,0 +1,12 @@
+{
+  "relationships": [
+    {"value": "brother", "label": "Brother"},
+    {"value": "sister", "label": "Sister"},
+    {"value": "aunt", "label": "Aunt"},
+    {"value": "uncle", "label": "Uncle"},
+    {"value": "grandparent", "label": "Grandparent"},
+    {"value": "cousin", "label": "Cousin"},
+    {"value": "friend", "label": "Friend"},
+    {"value": "other", "label": "Other"}
+  ]
+}

@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  body {
+    @apply font-normal font-muli;
+  }
+
+  .sr-button {
+    @apply p-4 font-extrabold text-center uppercase whitespace-no-wrap rounded tracking-onepix transition-colors duration-200 ease-in-out;
+  }
+
+  .sr-button-primary {
+    @apply text-white bg-primary-500;
+  }
+
+  .sr-button-primary:hover {
+    @apply bg-primary-700;
+  }
+
+  .sr-button-secondary {
+    @apply text-darkGray bg-snow;
+  }
+
+  .sr-button-secondary:hover {
+    @apply bg-lightGray;
+  }
+
+  .sr-button-error {
+    @apply text-white bg-error-500;
+  }
+
+  .sr-button-error:hover {
+    @apply bg-error-700;
+  }
+
+  .sr-button-facebook {
+    @apply text-white bg-facebook;
+  }
+
+  .sr-button-facebook:hover {
+    @apply bg-facebookHover;
+  }
+
+  .sr-button-twitter {
+    @apply text-white bg-twitter;
+  }
+
+  .sr-button-twitter:hover {
+    @apply bg-twitterHover;
+  }
+
+  .sr-input {
+    @apply w-full p-4 border border-solid rounded cursor-pointer border-snow transition duration-200 ease-in-out;
+  }
+
+  .sr-input:focus {
+    @apply border-primary-500;
+  }
+
+  .sr-input-error {
+    @apply rounded-t rounded-b-none;
+  }
+
+  .disabled {
+    @apply opacity-50 cursor-not-allowed pointer-events-none;
+  }
+
+  .form-checkbox {
+    @apply p-4 border border-solid rounded cursor-pointer border-snow transition duration-200 ease-in-out bg-trueWhite;
+  }
+
+  .form-checkbox:checked {
+    @apply bg-trueWhite text-primary-500;
+  }
+}

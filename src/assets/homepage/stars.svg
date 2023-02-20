@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stars" transform="translate(49.000000, 43.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Star" points="825 723 826.5 718.5 831 717 826.5 715.5 825 711 823.5 715.5 819 717 823.5 718.5"></polygon>
+            <polygon id="Star" points="6.00000003 782 7.50000003 777.5 12.0000001 776 7.50000003 774.5 6.00000003 770 4.50000002 774.5 0 776 4.50000002 777.5"></polygon>
+            <polygon id="Star" points="275 910 276.5 905.5 281 904 276.5 902.5 275 898 273.5 902.5 269 904 273.5 905.5"></polygon>
+            <polygon id="Star" points="124 266 125.5 261.5 130 260 125.5 258.5 124 254 122.5 258.5 118 260 122.5 261.5"></polygon>
+            <polygon id="Star" points="872 462 873.5 457.5 878 456 873.5 454.5 872 450 870.5 454.5 866 456 870.5 457.5"></polygon>
+            <polygon id="Star" points="756 194 757.5 189.5 762 188 757.5 186.5 756 182 754.5 186.5 750 188 754.5 189.5"></polygon>
+            <polygon id="Star" points="563 333 564.5 328.5 569 327 564.5 325.5 563 321 561.5 325.5 557 327 561.5 328.5"></polygon>
+            <polygon id="Star" points="511 937 512.5 932.5 517 931 512.5 929.5 511 925 509.5 929.5 505 931 509.5 932.5"></polygon>
+            <polygon id="Star" points="218 12 219.5 7.50000003 224 6.00000002 219.5 4.50000002 218 0 216.5 4.50000002 212 6.00000002 216.5 7.50000003"></polygon>
+            <polygon id="Star" points="320 441 321.5 436.5 326 435 321.5 433.5 320 429 318.5 433.5 314 435 318.5 436.5"></polygon>
+        </g>
+        <g id="Dots" opacity="0.5" transform="translate(14.000000, 12.000000)" fill="#FFFFFF">
+            <circle id="Dot" opacity="0.10289684" cx="385.5" cy="614.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.287722437" cx="955.5" cy="284.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.716784622" cx="324.5" cy="724.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.788678423" cx="45" cy="62" r="4"></circle>
+            <circle id="Dot" opacity="0.769350459" cx="797.5" cy="860.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.412041449" cx="792.5" cy="578.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.412041449" cx="753.5" cy="443.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.454475179" cx="229" cy="392" r="4"></circle>
+            <circle id="Dot" opacity="0.542259648" cx="398.5" cy="517.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.362633083" cx="521.5" cy="59.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.395195819" cx="318.5" cy="830.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.282968147" cx="593" cy="277" r="4"></circle>
+            <circle id="Dot" opacity="0.515640854" cx="939" cy="967" r="4"></circle>
+            <circle id="Dot" opacity="0.186821249" cx="919.5" cy="818.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.881513182" cx="605.5" cy="399.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.431079273" cx="957" cy="674" r="4"></circle>
+            <circle id="Dot" opacity="0.793295452" cx="323" cy="335" r="4"></circle>
+            <circle id="Dot" opacity="0.281653627" cx="299.5" cy="522.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.959055582" cx="476.5" cy="862.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.731009329" cx="723" cy="767" r="4"></circle>
+            <circle id="Dot" opacity="0.974361736" cx="365.5" cy="805.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.66371437" cx="248.5" cy="958.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.108206115" cx="967.5" cy="902.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.639077136" cx="752.5" cy="147.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.639077136" cx="864.5" cy="93.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.639077136" cx="642.5" cy="188.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.741855823" cx="4" cy="532" r="4"></circle>
+            <circle id="Dot" opacity="0.741855823" cx="115" cy="560" r="4"></circle>
+            <circle id="Dot" opacity="0.203091665" cx="773" cy="241" r="4"></circle>
+            <circle id="Dot" opacity="0.203091665" cx="912" cy="178" r="4"></circle>
+            <circle id="Dot" opacity="0.719784977" cx="29.5" cy="202.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.310624385" cx="857" cy="624" r="4"></circle>
+            <circle id="Dot" opacity="0.17441143" cx="41" cy="755" r="4"></circle>
+            <circle id="Dot" opacity="0.652587369" cx="171.5" cy="701.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.30539714" cx="726.5" cy="935.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.843540784" cx="310" cy="44" r="4"></circle>
+            <circle id="Dot" opacity="0.371341003" cx="725" cy="355" r="4"></circle>
+            <circle id="Dot" opacity="0.371341003" cx="432" cy="233" r="4"></circle>
+            <circle id="Dot" opacity="0.0545174746" cx="812" cy="808" r="4"></circle>
+            <circle id="Dot" opacity="0.551111483" cx="642.5" cy="551.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.769471758" cx="308" cy="392" r="4"></circle>
+            <circle id="Dot" opacity="0.918077582" cx="677.5" cy="64.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.0706176179" cx="983.5" cy="533.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.485401156" cx="156.5" cy="774.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.485401156" cx="209.5" cy="570.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.485401156" cx="40.5" cy="375.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.447315457" cx="159.5" cy="439.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.670300664" cx="532.5" cy="139.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.278656753" cx="488" cy="549" r="4"></circle>
+            <circle id="Dot" opacity="0.496438202" cx="793" cy="906" r="4"></circle>
+            <circle id="Dot" opacity="0.363967885" cx="519" cy="759" r="4"></circle>
+            <circle id="Dot" opacity="0.654008622" cx="193.5" cy="904.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.977842586" cx="811" cy="560" r="4"></circle>
+            <circle id="Dot" opacity="0.249823405" cx="465.5" cy="979.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.0818603272" cx="669.5" cy="917.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.361553122" cx="568" cy="625" r="4"></circle>
+            <circle id="Dot" opacity="0.136267602" cx="44.5" cy="688.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.635835823" cx="396.5" cy="700.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.635835823" cx="856.5" cy="367.5" r="4.5"></circle>
+            <circle id="Dot" opacity="0.468866933" cx="486" cy="134" r="4"></circle>
+            <circle id="Dot" opacity="0.38405489" cx="924.5" cy="555.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.790684457" cx="54.5" cy="125.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.382093134" cx="38.5" cy="566.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.804141085" cx="789" cy="4" r="4"></circle>
+            <circle id="Dot" opacity="0.160275064" cx="460.5" cy="797.5" r="3.5"></circle>
+            <circle id="Dot" opacity="0.994604437" cx="350" cy="353" r="4"></circle>
+            <circle id="Dot" opacity="0.923655369" cx="182" cy="174" r="4"></circle>
+            <circle id="Dot" opacity="0.923655369" cx="107" cy="312" r="4"></circle>
+        </g>
+    </g>
+</svg>
